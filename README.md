@@ -108,8 +108,9 @@ Bu bir ürün değil, bir **duruş**.
 ## 📜 Lisans
 
 Bu proje açık kaynak olarak geliştirilir.
+Şu anda lisans tam olarak seçilmemiştir.
 
-Önerilen lisans:
+Tahmin edilen lisans:
 
 * **Apache 2.0** veya
 * **MIT License**
